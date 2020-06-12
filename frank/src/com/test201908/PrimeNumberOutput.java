@@ -17,6 +17,36 @@ import java.util.concurrent.ForkJoinPool;
  */
 public class PrimeNumberOutput {
     public static void main(String[] args) {
+        //第一种方法
+        Method01();
+
+        //第二种方法
+//        Method02();
+
+
+
+    }
+
+    public static void Method02() {
+        boolean flag = true;
+        for (int i =2 ; i<100;i++){
+
+            for (int j = 2; j<i; j++){
+                if (i % j == 0){
+                    flag = false;
+                    break;
+                }
+            }
+
+            if (flag){
+                System.out.println(i);
+            }
+
+            flag = true;
+        }
+    }
+
+    public static void Method01() {
         List<Integer> list = new ArrayList<Integer>();
         for (int i = 2; i <=100 ; i++) {
             int a = 0;   //整除次数
@@ -29,6 +59,8 @@ public class PrimeNumberOutput {
                 list.add(i);
             }
         }
+
+        System.out.println(list.size());
         for (Integer b:list) {
             System.out.println(b);
         }
