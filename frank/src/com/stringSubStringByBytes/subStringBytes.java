@@ -85,6 +85,6 @@ public class subStringBytes {
     public static void main(String[] args) throws UnsupportedEncodingException {
         String str = "帅帅ABCD衰";
         System.out.println(getStringByteLengths(str,"GBK"));
-        System.out.println(subStringByByte(str,4,8,"UTF-8"));
+        System.out.println(subStringByByte(str,4,8,"GBK"));
     }
 }
