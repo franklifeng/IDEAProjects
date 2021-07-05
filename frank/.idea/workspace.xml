@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba133d78-f7d2-457a-964e-c95169d2c714" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/stringSubStringByBytes/subStringBytes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stringSubStringByBytes/subStringBytes.java" afterDir="false" />
+    <list default="true" id="ba133d78-f7d2-457a-964e-c95169d2c714" name="Default" comment="test">
+      <change beforePath="$PROJECT_DIR$/src/com/cenboomh/isChinese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cenboomh/isChinese.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
@@ -269,7 +270,16 @@
       <workItem from="1588055068274" duration="610000" />
       <workItem from="1624527920122" duration="1922000" />
       <workItem from="1624580380977" duration="1629000" />
+      <workItem from="1625453966681" duration="3120000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1625464953070</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625464953070</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -284,7 +294,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="-1362" y="161" key="CommitChangelistDialog2" timestamp="1625464950478">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1362" y="161" key="CommitChangelistDialog2/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1625464950478" />
     <state width="1877" height="350" key="GridCell.Tab.0.bottom" timestamp="1624589188260">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
