@@ -25,7 +25,7 @@ public class isChinese {
         System.out.println(checkNameChese(str));
 
         System.out.println(validateLegalString("#"));
-
+        System.out.println("这是一个测试");
 
     }
 
