@@ -26,7 +26,7 @@ public class isChinese {
 
         System.out.println(validateLegalString("#"));
 
-        
+
     }
 
 
